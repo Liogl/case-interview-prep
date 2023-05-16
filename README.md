@@ -4,6 +4,8 @@ https://liogl.github.io/case-interview-prep/
 
 Feel free to clone or suggest your own changes.
 
+To test out the documentation locally, run `npm run build`, then `npm run docsify serve .\n`
+
 ## Overview
 This document is designed to help interviewees quickly ramp up their case-interview skills. The Case Interview is an outdated technique, so - the less time someone has to spend preparing for it, the better.
 This document was created with the help of GPT4. 
