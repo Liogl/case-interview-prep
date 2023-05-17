@@ -30,7 +30,14 @@ These include:
 4. **Operations:** These cases often deal with issues related to supply chain, process improvement, cost reduction, or quality control. They test your ability to identify operational inefficiencies and devise practical solutions.
 5. **Pricing:** These cases involve setting or adjusting the price for a product or service. You might need to consider factors like costs, competition, customer willingness to pay, and overall company strategy.
 
+**For each type, there are specifics aspects you are expected to focus on. Spend most of your time on those.** 
+
+#### Understand the dynamic
+Is this a candidate-led or an interviewer-led case? 
+
 Practice, Practice, Practice: Use resources like Case In Point, Victor Cheng's materials, or online platforms like PrepLounge.
+
+
 
 ### Page 2: The Approach
 
@@ -52,7 +59,7 @@ Synthesize Information: Summarize your findings and how they relate to your init
 
 Communicate Clearly: Clearly explain your thought process, analyses, and recommendations. Good consultants can break down complex ideas into understandable pieces.
 
-Be Structured in Your Response: Use a top-down communication style. Start with the answer (your recommendation) and then provide the supporting arguments.
+Be Structured in Your Response: Use a top-down communication style. Start with the answer (your recommendation) and then provide the supporting arguments (about 2-3).
 
 Engage in a Conversation: Case interviews are meant to be interactive. Engage with the interviewer, ask questions, and bounce ideas off them.
 
@@ -65,3 +72,15 @@ Showcase Your Problem-Solving Skills: Demonstrate how you can break down complex
 Be Coachable: Show that you can take feedback and adapt your approach. This is a sign that you'll be able to learn and grow on the job.
 
 Remember, the goal is not necessarily to "solve" the case, but to demonstrate your problem-solving skills, business acumen, and communication abilities.
+
+### Summary
+Case interview flow:
+1. Understand the case background, and what is asked for
+2. Ask clarifying questions
+3. Structure a framework
+4. Start the case: go through the framework defined
+5. Land the plane: deliver a recommendation, post-mortem discussion
+
+## Links
+Learn Case Interviews in Under 30 minutes: https://www.youtube.com/watch?v=akdsoi71R6U
+
